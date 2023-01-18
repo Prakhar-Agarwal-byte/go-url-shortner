@@ -1,0 +1,4 @@
+- path: /go
+  url: https://www.google.com
+- path: /fb
+  url: https://www.facebook.com
